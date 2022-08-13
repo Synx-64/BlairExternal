@@ -1,0 +1,440 @@
+﻿  imgui.cpp
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\defs.hpp(106,1): warning C4005: "LOBYTE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(206): message : Siehe vorherige Definition von "LOBYTE"
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\defs.hpp(107,1): warning C4005: "LOWORD": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(204): message : Siehe vorherige Definition von "LOWORD"
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\defs.hpp(109,1): warning C4005: "HIBYTE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(207): message : Siehe vorherige Definition von "HIBYTE"
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\defs.hpp(110,1): warning C4005: "HIWORD": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(205): message : Siehe vorherige Definition von "HIWORD"
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Entitys.hpp(80,12): warning C4244: "=": Konvertierung von "unsigned __int64" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Entitys.hpp(85,11): warning C4244: "=": Konvertierung von "unsigned __int64" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Entitys.hpp(88,13): warning C4244: "=": Konvertierung von "unsigned __int64" in "unsigned int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\DecryptUWorld.hpp(12,33): warning C4244: "Argument": Konvertierung von "T" in "const uint32_t", möglicher Datenverlust
+          with
+          [
+              T=uintptr_t
+          ]
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(195,14): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(196,14): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(197,15): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(198,15): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(199,13): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(200,13): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(201,80): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(201,73): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(201,56): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(201,47): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(224,75): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(256,32): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(271,50): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(271,47): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(276,111): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(276,67): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(276,63): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(276,51): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(276,47): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(281,76): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(281,69): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(281,56): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(281,53): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(303,81): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(303,56): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(303,37): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(303,28): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(304,94): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(304,74): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(304,33): warning C4244: "Argument": Konvertierung von "const float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(304,25): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(304,12): warning C4244: "Argument": Konvertierung von "const float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(305,43): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(305,25): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(628,182): warning C4305: "Argument": Verkürzung von "double" in "float"
+  imgui_demo.cpp
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\defs.hpp(106,1): warning C4005: "LOBYTE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(206): message : Siehe vorherige Definition von "LOBYTE"
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\defs.hpp(107,1): warning C4005: "LOWORD": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(204): message : Siehe vorherige Definition von "LOWORD"
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\defs.hpp(109,1): warning C4005: "HIBYTE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(207): message : Siehe vorherige Definition von "HIBYTE"
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\defs.hpp(110,1): warning C4005: "HIWORD": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(205): message : Siehe vorherige Definition von "HIWORD"
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Entitys.hpp(80,12): warning C4244: "=": Konvertierung von "unsigned __int64" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Entitys.hpp(85,11): warning C4244: "=": Konvertierung von "unsigned __int64" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Entitys.hpp(88,13): warning C4244: "=": Konvertierung von "unsigned __int64" in "unsigned int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\DecryptUWorld.hpp(12,33): warning C4244: "Argument": Konvertierung von "T" in "const uint32_t", möglicher Datenverlust
+          with
+          [
+              T=uintptr_t
+          ]
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(195,14): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(196,14): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(197,15): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(198,15): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(199,13): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(200,13): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(201,80): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(201,73): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(201,56): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(201,47): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(224,75): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(256,32): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(271,50): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(271,47): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(276,111): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(276,67): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(276,63): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(276,51): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(276,47): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(281,76): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(281,69): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(281,56): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(281,53): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(303,81): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(303,56): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(303,37): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(303,28): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(304,94): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(304,74): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(304,33): warning C4244: "Argument": Konvertierung von "const float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(304,25): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(304,12): warning C4244: "Argument": Konvertierung von "const float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(305,43): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(305,25): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(628,182): warning C4305: "Argument": Verkürzung von "double" in "float"
+  imgui_draw.cpp
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\defs.hpp(106,1): warning C4005: "LOBYTE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(206): message : Siehe vorherige Definition von "LOBYTE"
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\defs.hpp(107,1): warning C4005: "LOWORD": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(204): message : Siehe vorherige Definition von "LOWORD"
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\defs.hpp(109,1): warning C4005: "HIBYTE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(207): message : Siehe vorherige Definition von "HIBYTE"
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\defs.hpp(110,1): warning C4005: "HIWORD": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(205): message : Siehe vorherige Definition von "HIWORD"
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Entitys.hpp(80,12): warning C4244: "=": Konvertierung von "unsigned __int64" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Entitys.hpp(85,11): warning C4244: "=": Konvertierung von "unsigned __int64" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Entitys.hpp(88,13): warning C4244: "=": Konvertierung von "unsigned __int64" in "unsigned int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\DecryptUWorld.hpp(12,33): warning C4244: "Argument": Konvertierung von "T" in "const uint32_t", möglicher Datenverlust
+          with
+          [
+              T=uintptr_t
+          ]
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(195,14): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(196,14): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(197,15): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(198,15): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(199,13): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(200,13): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(201,80): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(201,73): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(201,56): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(201,47): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(224,75): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(256,32): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(271,50): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(271,47): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(276,111): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(276,67): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(276,63): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(276,51): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(276,47): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(281,76): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(281,69): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(281,56): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(281,53): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(303,81): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(303,56): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(303,37): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(303,28): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(304,94): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(304,74): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(304,33): warning C4244: "Argument": Konvertierung von "const float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(304,25): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(304,12): warning C4244: "Argument": Konvertierung von "const float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(305,43): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(305,25): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(628,182): warning C4305: "Argument": Verkürzung von "double" in "float"
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\include\imgui\imgui_draw.cpp(197,62): warning C4305: "Argument": Verkürzung von "double" in "float"
+  imgui_impl_glfw.cpp
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\defs.hpp(106,1): warning C4005: "LOBYTE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(206): message : Siehe vorherige Definition von "LOBYTE"
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\defs.hpp(107,1): warning C4005: "LOWORD": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(204): message : Siehe vorherige Definition von "LOWORD"
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\defs.hpp(109,1): warning C4005: "HIBYTE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(207): message : Siehe vorherige Definition von "HIBYTE"
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\defs.hpp(110,1): warning C4005: "HIWORD": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(205): message : Siehe vorherige Definition von "HIWORD"
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Entitys.hpp(80,12): warning C4244: "=": Konvertierung von "unsigned __int64" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Entitys.hpp(85,11): warning C4244: "=": Konvertierung von "unsigned __int64" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Entitys.hpp(88,13): warning C4244: "=": Konvertierung von "unsigned __int64" in "unsigned int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\DecryptUWorld.hpp(12,33): warning C4244: "Argument": Konvertierung von "T" in "const uint32_t", möglicher Datenverlust
+          with
+          [
+              T=uintptr_t
+          ]
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(195,14): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(196,14): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(197,15): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(198,15): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(199,13): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(200,13): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(201,80): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(201,73): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(201,56): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(201,47): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(224,75): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(256,32): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(271,50): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(271,47): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(276,111): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(276,67): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(276,63): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(276,51): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(276,47): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(281,76): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(281,69): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(281,56): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(281,53): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(303,81): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(303,56): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(303,37): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(303,28): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(304,94): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(304,74): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(304,33): warning C4244: "Argument": Konvertierung von "const float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(304,25): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(304,12): warning C4244: "Argument": Konvertierung von "const float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(305,43): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(305,25): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(628,182): warning C4305: "Argument": Verkürzung von "double" in "float"
+  imgui_impl_opengl3.cpp
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\defs.hpp(106,1): warning C4005: "LOBYTE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(206): message : Siehe vorherige Definition von "LOBYTE"
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\defs.hpp(107,1): warning C4005: "LOWORD": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(204): message : Siehe vorherige Definition von "LOWORD"
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\defs.hpp(109,1): warning C4005: "HIBYTE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(207): message : Siehe vorherige Definition von "HIBYTE"
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\defs.hpp(110,1): warning C4005: "HIWORD": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(205): message : Siehe vorherige Definition von "HIWORD"
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Entitys.hpp(80,12): warning C4244: "=": Konvertierung von "unsigned __int64" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Entitys.hpp(85,11): warning C4244: "=": Konvertierung von "unsigned __int64" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Entitys.hpp(88,13): warning C4244: "=": Konvertierung von "unsigned __int64" in "unsigned int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\DecryptUWorld.hpp(12,33): warning C4244: "Argument": Konvertierung von "T" in "const uint32_t", möglicher Datenverlust
+          with
+          [
+              T=uintptr_t
+          ]
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(195,14): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(196,14): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(197,15): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(198,15): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(199,13): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(200,13): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(201,80): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(201,73): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(201,56): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(201,47): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(224,75): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(256,32): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(271,50): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(271,47): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(276,111): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(276,67): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(276,63): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(276,51): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(276,47): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(281,76): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(281,69): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(281,56): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(281,53): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(303,81): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(303,56): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(303,37): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(303,28): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(304,94): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(304,74): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(304,33): warning C4244: "Argument": Konvertierung von "const float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(304,25): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(304,12): warning C4244: "Argument": Konvertierung von "const float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(305,43): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(305,25): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(628,182): warning C4305: "Argument": Verkürzung von "double" in "float"
+  imgui_tables.cpp
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\defs.hpp(106,1): warning C4005: "LOBYTE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(206): message : Siehe vorherige Definition von "LOBYTE"
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\defs.hpp(107,1): warning C4005: "LOWORD": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(204): message : Siehe vorherige Definition von "LOWORD"
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\defs.hpp(109,1): warning C4005: "HIBYTE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(207): message : Siehe vorherige Definition von "HIBYTE"
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\defs.hpp(110,1): warning C4005: "HIWORD": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(205): message : Siehe vorherige Definition von "HIWORD"
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Entitys.hpp(80,12): warning C4244: "=": Konvertierung von "unsigned __int64" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Entitys.hpp(85,11): warning C4244: "=": Konvertierung von "unsigned __int64" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Entitys.hpp(88,13): warning C4244: "=": Konvertierung von "unsigned __int64" in "unsigned int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\DecryptUWorld.hpp(12,33): warning C4244: "Argument": Konvertierung von "T" in "const uint32_t", möglicher Datenverlust
+          with
+          [
+              T=uintptr_t
+          ]
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(195,14): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(196,14): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(197,15): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(198,15): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(199,13): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(200,13): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(201,80): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(201,73): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(201,56): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(201,47): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(224,75): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(256,32): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(271,50): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(271,47): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(276,111): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(276,67): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(276,63): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(276,51): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(276,47): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(281,76): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(281,69): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(281,56): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(281,53): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(303,81): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(303,56): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(303,37): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(303,28): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(304,94): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(304,74): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(304,33): warning C4244: "Argument": Konvertierung von "const float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(304,25): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(304,12): warning C4244: "Argument": Konvertierung von "const float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(305,43): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(305,25): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(628,182): warning C4305: "Argument": Verkürzung von "double" in "float"
+  imgui_widgets.cpp
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\defs.hpp(106,1): warning C4005: "LOBYTE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(206): message : Siehe vorherige Definition von "LOBYTE"
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\defs.hpp(107,1): warning C4005: "LOWORD": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(204): message : Siehe vorherige Definition von "LOWORD"
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\defs.hpp(109,1): warning C4005: "HIBYTE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(207): message : Siehe vorherige Definition von "HIBYTE"
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\defs.hpp(110,1): warning C4005: "HIWORD": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(205): message : Siehe vorherige Definition von "HIWORD"
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Entitys.hpp(80,12): warning C4244: "=": Konvertierung von "unsigned __int64" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Entitys.hpp(85,11): warning C4244: "=": Konvertierung von "unsigned __int64" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Entitys.hpp(88,13): warning C4244: "=": Konvertierung von "unsigned __int64" in "unsigned int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\DecryptUWorld.hpp(12,33): warning C4244: "Argument": Konvertierung von "T" in "const uint32_t", möglicher Datenverlust
+          with
+          [
+              T=uintptr_t
+          ]
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(195,14): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(196,14): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(197,15): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(198,15): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(199,13): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(200,13): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(201,80): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(201,73): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(201,56): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(201,47): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(224,75): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(256,32): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(271,50): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(271,47): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(276,111): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(276,67): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(276,63): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(276,51): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(276,47): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(281,76): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(281,69): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(281,56): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(281,53): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(303,81): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(303,56): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(303,37): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(303,28): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(304,94): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(304,74): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(304,33): warning C4244: "Argument": Konvertierung von "const float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(304,25): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(304,12): warning C4244: "Argument": Konvertierung von "const float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(305,43): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(305,25): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(628,182): warning C4305: "Argument": Verkürzung von "double" in "float"
+  Main.cpp
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\defs.hpp(106,1): warning C4005: "LOBYTE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(206): message : Siehe vorherige Definition von "LOBYTE"
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\defs.hpp(107,1): warning C4005: "LOWORD": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(204): message : Siehe vorherige Definition von "LOWORD"
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\defs.hpp(109,1): warning C4005: "HIBYTE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(207): message : Siehe vorherige Definition von "HIBYTE"
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\defs.hpp(110,1): warning C4005: "HIWORD": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(205): message : Siehe vorherige Definition von "HIWORD"
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Entitys.hpp(80,12): warning C4244: "=": Konvertierung von "unsigned __int64" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Entitys.hpp(85,11): warning C4244: "=": Konvertierung von "unsigned __int64" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Entitys.hpp(88,13): warning C4244: "=": Konvertierung von "unsigned __int64" in "unsigned int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\DecryptUWorld.hpp(12,33): warning C4244: "Argument": Konvertierung von "T" in "const uint32_t", möglicher Datenverlust
+          with
+          [
+              T=uintptr_t
+          ]
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(195,14): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(196,14): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(197,15): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(198,15): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(199,13): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(200,13): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(201,80): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(201,73): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(201,56): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(201,47): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(224,75): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(256,32): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(271,50): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(271,47): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(276,111): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(276,67): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(276,63): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(276,51): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(276,47): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(281,76): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(281,69): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(281,56): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(281,53): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(303,81): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(303,56): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(303,37): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(303,28): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(304,94): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(304,74): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(304,33): warning C4244: "Argument": Konvertierung von "const float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(304,25): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(304,12): warning C4244: "Argument": Konvertierung von "const float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(305,43): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(305,25): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\Valorant.hpp(628,182): warning C4305: "Argument": Verkürzung von "double" in "float"
+  Previous IPDB not found, fall back to full compilation.
+LINK : warning LNK4098: Standardbibliothek "LIBCMT" steht in Konflikt mit anderen Bibliotheken; /NODEFAULTLIB:Bibliothek verwenden.
+LINK : warning LNK4098: Standardbibliothek "MSVCRTD" steht in Konflikt mit anderen Bibliotheken; /NODEFAULTLIB:Bibliothek verwenden.
+  Code wird generiert.
+  All 1684 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Codegenerierung ist abgeschlossen.
+glew32s.lib(glew.obj) : warning LNK4099: PDB "vc120.pdb" wurde nicht mit "glew32s.lib(glew.obj)" oder an "C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\x64\Release\vc120.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(context.obj) : warning LNK4099: PDB "glfw3.pdb" wurde nicht mit "glfw3.lib(context.obj)" oder an "C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\x64\Release\glfw3.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(init.obj) : warning LNK4099: PDB "glfw3.pdb" wurde nicht mit "glfw3.lib(init.obj)" oder an "C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\x64\Release\glfw3.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(input.obj) : warning LNK4099: PDB "glfw3.pdb" wurde nicht mit "glfw3.lib(input.obj)" oder an "C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\x64\Release\glfw3.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(monitor.obj) : warning LNK4099: PDB "glfw3.pdb" wurde nicht mit "glfw3.lib(monitor.obj)" oder an "C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\x64\Release\glfw3.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(vulkan.obj) : warning LNK4099: PDB "glfw3.pdb" wurde nicht mit "glfw3.lib(vulkan.obj)" oder an "C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\x64\Release\glfw3.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(window.obj) : warning LNK4099: PDB "glfw3.pdb" wurde nicht mit "glfw3.lib(window.obj)" oder an "C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\x64\Release\glfw3.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(win32_init.obj) : warning LNK4099: PDB "glfw3.pdb" wurde nicht mit "glfw3.lib(win32_init.obj)" oder an "C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\x64\Release\glfw3.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB "glfw3.pdb" wurde nicht mit "glfw3.lib(win32_joystick.obj)" oder an "C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\x64\Release\glfw3.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(win32_monitor.obj) : warning LNK4099: PDB "glfw3.pdb" wurde nicht mit "glfw3.lib(win32_monitor.obj)" oder an "C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\x64\Release\glfw3.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(win32_time.obj) : warning LNK4099: PDB "glfw3.pdb" wurde nicht mit "glfw3.lib(win32_time.obj)" oder an "C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\x64\Release\glfw3.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(win32_thread.obj) : warning LNK4099: PDB "glfw3.pdb" wurde nicht mit "glfw3.lib(win32_thread.obj)" oder an "C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\x64\Release\glfw3.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(win32_window.obj) : warning LNK4099: PDB "glfw3.pdb" wurde nicht mit "glfw3.lib(win32_window.obj)" oder an "C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\x64\Release\glfw3.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(wgl_context.obj) : warning LNK4099: PDB "glfw3.pdb" wurde nicht mit "glfw3.lib(wgl_context.obj)" oder an "C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\x64\Release\glfw3.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(egl_context.obj) : warning LNK4099: PDB "glfw3.pdb" wurde nicht mit "glfw3.lib(egl_context.obj)" oder an "C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\x64\Release\glfw3.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(osmesa_context.obj) : warning LNK4099: PDB "glfw3.pdb" wurde nicht mit "glfw3.lib(osmesa_context.obj)" oder an "C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\x64\Release\glfw3.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+  Valorant.vcxproj -> C:\Users\willi\Downloads\Gaylorant_[unknowncheats.me]_\Gaylorant\x64\Release\ValoKeaz.exe
